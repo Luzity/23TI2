@@ -1,3 +1,6 @@
 KEVIN
--Konsisten untuk membuat konten 2z seminggu
--Membat platfrom untuk diskusi
+-Konsisten untuk membuat konten 2seminggu
+-Membat platfrom untuk pengelolaan vidio
+Membuat form diskusi
+Membuat merch shop
+Kolaborasi dengan expert
